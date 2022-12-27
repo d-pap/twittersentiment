@@ -6,7 +6,7 @@ This project was done to learn how I could analyze a companies social media pres
 
 # My Process
 
-In this project, I performed the following:
+Project Outline:
   1. Imported libraries and datasets
   2. Performed exploratory data analysis and generated word clouds from the dataset
   4. Performed data cleaning and created a pipeline to remove punctuations, stop words, and perform tokenization
